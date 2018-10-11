@@ -1,0 +1,24 @@
+{
+  "price_monthly": 5.0, 
+  "available": true, 
+  "transfer": 1.0, 
+  "price_hourly": 0.00744, 
+  "regions": [
+    "ams2", 
+    "ams3", 
+    "blr1", 
+    "fra1", 
+    "lon1", 
+    "nyc1", 
+    "nyc2", 
+    "nyc3", 
+    "sfo1", 
+    "sfo2", 
+    "sgp1", 
+    "tor1"
+  ], 
+  "vcpus": 1, 
+  "memory": 1024, 
+  "disk": 25, 
+  "slug": "s-1vcpu-1gb"
+}
