@@ -1,7 +1,6 @@
 # Task 1
 # Data.json file content droplets from digitalocean
 
-# Task
 1. Please open file data.json
 2. Create 3 files droplet{1..3}.json
 3. Copy first droplet and save content to droplet1.json
